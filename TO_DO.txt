@@ -1,0 +1,18 @@
+	
+	
+	==============================================================================================================================
+	- After written to DB, fetch the ID of the same entity and write it down to related field so that update will be easy.
+Otherwise, new entry is created for the same application.
+	
+	- Display time of application on main Form (bring it from DB)
+	- Progress bar while waiting for Cover letter generation (http://stackoverflow.com/questions/12126889/how-to-use-winforms-progress-bar)
+	
+	- if Response Given? is TRUE, then record response time in DB for Statistics purposes.
+	 
+	- Statistics butonunun alti doldurulacak.
+	- Case sensistive query in DB.
+	
+	==========================================   DONE     ===============================================
+	- When cover letter is generated, display the whole text in a textbox to user so that it could be copied. (OR just copy the text to the clipboard)
+	- Olusturulan her cover letter icin klasor ac ve icine yaz, yeni bir yere tasima geregi olmasin.
+	- Contact List should be written in DB.
